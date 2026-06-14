@@ -1,6 +1,6 @@
 # 🎬 Multimodal Graph Neural Networks for Movie Recommendation
 
-> **Deep Learning Lab Project — Part 2** | Group 33 | ΕΔΕΜΜ, NTUA | 2025–2026
+> **Deep Learning Lab Project — Part 2** | Group 33 | DSML, NTUA | 2025–2026
 
 A three-stage multimodal pipeline that combines **Computer Vision**, **Natural Language Processing**, and **Graph Neural Networks** to build an intelligent movie recommendation system using the MovieLens dataset.
 
