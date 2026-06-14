@@ -318,13 +318,7 @@ pip install aiohttp tqdm
 
 ---
 
-## Team
-
-| Name | Student ID |
-|------|-----------|
-| Χαρίσης Σκορδάς | dsml00313 |
-
-**Course:** ΕΔΕΜΜ — Deep Learning Laboratory  
+**Course:** Deep Learning Laboratory  
 **Institution:** National Technical University of Athens (NTUA)  
 **Academic Year:** 2025–2026
 
